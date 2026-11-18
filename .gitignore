@@ -1,0 +1,7 @@
+**/__pycache__/
+**/.pytest_cache/
+**/.cache/
+**/.streamlit/secrets.toml
+nudisetu_demo.mp4
+preview.png
+thumb_*.jpg
