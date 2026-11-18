@@ -11,10 +11,12 @@
 
 ---
 
-[![Watch the Nudi Setu Demo Video](Last_Benchu_Party/problem_01/assets/demo-poster.jpg)](Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4)
+## 🎬 Live Product Demo
 
-> 🎥 **Video Demo Walkthrough:** [Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4](Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4)  
-> 🌐 **Interactive Web App Path:** [`Last_Benchu_Party/problem_01/app.py`](Last_Benchu_Party/problem_01/app.py)
+![Nudi Setu Live Demo Video Preview](Last_Benchu_Party/problem_01/assets/nudisetu_demo.gif)
+
+> 🎥 **Full 1080p Video File:** [`Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4`](Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4)  
+> 🚀 **1-Click Streamlit Cloud Deployment:** [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Srimanikanta2006/Nudi-Setu&branch=main&mainModule=app.py)
 
 ---
 

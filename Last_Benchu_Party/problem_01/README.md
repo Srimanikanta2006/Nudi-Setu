@@ -28,8 +28,10 @@ Kannada is blessed with immense linguistic diversity, spoken with distinct phono
 
 The system features an interactive, real-time web application built with Streamlit. As Kannada dialect text is entered, the engine translates instantly and highlights converted words side by side with visual diff tokens.
 
-👉 **Demo Video File:** [`assets/nudisetu_demo.mp4`](assets/nudisetu_demo.mp4)  
-👉 **Demo Poster:** [`assets/demo-poster.jpg`](assets/demo-poster.jpg)
+![Nudi Setu Live Demo Video Preview](assets/nudisetu_demo.gif)
+
+> 🎥 **Download / Watch Full 1080p Video:** [`assets/nudisetu_demo.mp4`](assets/nudisetu_demo.mp4)  
+> 🚀 **1-Click Streamlit Cloud Deployment:** [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Srimanikanta2006/Nudi-Setu&branch=main&mainModule=Last_Benchu_Party/problem_01/app.py)
 
 ```powershell
 # Run the interactive web app locally
