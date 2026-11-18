@@ -1,0 +1,117 @@
+﻿dialect,dialect_form,standard_form,type,example,notes,confidence,entry_id
+Hubballi-Dharwad,ಏನ್ರಿ,ಏನು,word,ಏನ್ರಿ ಬಂದಿರಿ?,,high,hd-001
+Hubballi-Dharwad,ಆತೇನ್ರಿ,ಆಯಿತೇ,phrase,ಊಟ ಆತೇನ್ರಿ?,Official example form,high,hd-002
+Hubballi-Dharwad,ಹೆಂಗ,ಹೇಗೆ,word,ಹೆಂಗ ಇದ್ದೀರಿ?,,needs_native_check,hd-003
+Hubballi-Dharwad,ಯಾಕ,ಯಾಕೆ,word,ಯಾಕ ಬಂದಿರಿ?,,needs_native_check,hd-004
+Hubballi-Dharwad,ಅದ,ಅದು,word,ಅದ ಕೊಡಿ,Meaning depends on context,needs_native_check,hd-005
+Hubballi-Dharwad,ಏನ್,ಏನು,word,ಏನ್ ಮಾಡ್ತೀರಿ?,,needs_native_check,hd-006
+Hubballi-Dharwad,ಬರ್ತೀರಾ,ಬರುತ್ತೀರಾ,ending,ನಾಳೆ ಬರ್ತೀರಾ?,,needs_native_check,hd-007
+Hubballi-Dharwad,ಬರ್ತೀನಿ,ಬರುತ್ತೇನೆ,ending,ನಾನು ಬರ್ತೀನಿ,,needs_native_check,hd-008
+Hubballi-Dharwad,ಹೋಗ್ತೀನಿ,ಹೋಗುತ್ತೇನೆ,ending,ನಾನು ಹೋಗ್ತೀನಿ,,needs_native_check,hd-009
+Hubballi-Dharwad,ಮಾಡ್ತೀನಿ,ಮಾಡುತ್ತೇನೆ,ending,ಕೆಲಸ ಮಾಡ್ತೀನಿ,,needs_native_check,hd-010
+Hubballi-Dharwad,ಮಾಡ್ತೀರಾ,ಮಾಡುತ್ತೀರಾ,ending,ಏನು ಮಾಡ್ತೀರಾ?,,needs_native_check,hd-011
+Hubballi-Dharwad,ಮಾಡ್ತಾ ಇದ್ದೀನಿ,ಮಾಡುತ್ತಿದ್ದೇನೆ,phrase,ನಾನು ಮಾಡ್ತಾ ಇದ್ದೀನಿ,,needs_native_check,hd-012
+Hubballi-Dharwad,ಮಾಡ್ತಾ ಇದ್ದೀರಿ,ಮಾಡುತ್ತಿದ್ದೀರಿ,phrase,ನೀವು ಮಾಡ್ತಾ ಇದ್ದೀರಿ,,needs_native_check,hd-013
+Hubballi-Dharwad,ಮಾಡ್ತಾ,ಮಾಡುತ್ತಾ,ending,,,needs_native_check,hd-014
+Hubballi-Dharwad,ಹೋಗ್ತೀರಾ,ಹೋಗುತ್ತೀರಾ,ending,,,needs_native_check,hd-015
+Hubballi-Dharwad,ಊಟ ಆತೇನ್ರಿ,ಊಟ ಆಯಿತೇ,phrase,,,high,hd-016
+Hubballi-Dharwad,ಬಂದಿರಿ,ಬಂದಿದ್ದೀರಾ,word,,,needs_native_check,hd-017
+Hubballi-Dharwad,ಇಲ್ಲಾ,ಇಲ್ಲ,word,,,needs_native_check,hd-018
+Hubballi-Dharwad,ಮನೆಗೆ,ಮನೆಗೆ,word,,,high,hd-019
+Hubballi-Dharwad,ಊಟಕ್ಕೆ,ಊಟಕ್ಕೆ,word,,,high,hd-020
+Hubballi-Dharwad,ಎಷ್ಟು,ಎಷ್ಟು,word,,,high,hd-021
+Hubballi-Dharwad,ಅಲ್ಲಿ,ಅಲ್ಲಿ,word,,,high,hd-022
+Hubballi-Dharwad,ಇಲ್ಲಿ,ಇಲ್ಲಿ,word,,,high,hd-023
+Hubballi-Dharwad,ಯಾವಾಗ,ಯಾವಾಗ,word,,,high,hd-024
+Hubballi-Dharwad,ಏಕೆ,ಏಕೆ,word,,,high,hd-025
+Hubballi-Dharwad,ಏನಪ್ಪ,ಏನು,word,,,needs_native_check,hd-026
+Hubballi-Dharwad,ಮಾಡಿದೆ,ಮಾಡಿದೆ,word,,,high,hd-027
+Hubballi-Dharwad,ತಿನ್ನಿ,ತಿನ್ನಿರಿ,word,,,needs_native_check,hd-028
+Hubballi-Dharwad,ಬನ್ನಿ,ಬನ್ನಿ,word,,,high,hd-029
+Hubballi-Dharwad,ಇವತ್ತು,ಇಂದು,word,,,needs_native_check,hd-030
+Hubballi-Dharwad,ನಾಳೆ,ನಾಳೆ,word,,,high,hd-031
+Hubballi-Dharwad,ಹೊರಗೆ,ಹೊರಗೆ,word,,,high,hd-032
+Hubballi-Dharwad,ಮಾಡ್ತಾನೆ,ಮಾಡುತ್ತಾನೆ,ending,,,needs_native_check,hd-033
+Hubballi-Dharwad,ಹೋಗ್ತಾಳೆ,ಹೋಗುತ್ತಾಳೆ,ending,,,needs_native_check,hd-034
+Mangaluru,ಎಂತ,ಏನು,word,ಎಂತ ಮಾಡ್ತಾ ಇದ್ದೀರಿ?,Official example form,high,mng-001
+Mangaluru,ಮಾಡ್ತಾ ಇದ್ದೀರಿ,ಮಾಡುತ್ತಿದ್ದೀರಿ,phrase,ಎಂತ ಮಾಡ್ತಾ ಇದ್ದೀರಿ?,Official example form,high,mng-002
+Mangaluru,ಉಂಟು,ಇದೆ,word,,,needs_native_check,mng-003
+Mangaluru,ಯಾನ್,ನಾನು,word,,,needs_native_check,mng-004
+Mangaluru,ಇಜ್ಜಿ,ಇಲ್ಲ,word,,,needs_native_check,mng-005
+Mangaluru,ಬರ್ಪೆ,ಬರುತ್ತೇನೆ,ending,,,needs_native_check,mng-006
+Mangaluru,ಪೋವೆ,ಹೋಗುತ್ತೇನೆ,ending,,,needs_native_check,mng-007
+Mangaluru,ಮಲ್ಪು,ಮಾಡು,word,,,needs_native_check,mng-008
+Mangaluru,ಎಂಚ,ಹೇಗೆ,word,,,needs_native_check,mng-009
+Mangaluru,ಊರು,ಊರು,word,,,high,mng-010
+Mangaluru,ಇಂದು,ಇಂದು,word,,,high,mng-011
+Mangaluru,ನಾಳೆ,ನಾಳೆ,word,,,high,mng-012
+Mangaluru,ಮನೆ,ಮನೆ,word,,,high,mng-013
+Mangaluru,ಶಾಲೆ,ಶಾಲೆ,word,,,high,mng-014
+Mangaluru,ಮಾರುಕಟ್ಟೆ,ಮಾರುಕಟ್ಟೆ,word,,,high,mng-015
+Mangaluru,ಎಲ್ಲಿ,ಎಲ್ಲಿ,word,,,high,mng-016
+Mangaluru,ಯಾವಾಗ,ಯಾವಾಗ,word,,,high,mng-017
+Mangaluru,ಬರುತ್ತೀರಾ,ಬರುತ್ತೀರಾ,ending,,,high,mng-018
+Mangaluru,ಹೋಗುತ್ತೀರಾ,ಹೋಗುತ್ತೀರಾ,ending,,,high,mng-019
+Mangaluru,ಮಾಡುತ್ತಿದ್ದೇನೆ,ಮಾಡುತ್ತಿದ್ದೇನೆ,phrase,,,high,mng-020
+Mangaluru,ಮಾಡ್ತಾ,ಮಾಡುತ್ತಾ,ending,,,needs_native_check,mng-021
+Mangaluru,ಬರ್ತೀನಿ,ಬರುತ್ತೇನೆ,ending,,,needs_native_check,mng-022
+Mangaluru,ಹೋಗ್ತೀನಿ,ಹೋಗುತ್ತೇನೆ,ending,,,needs_native_check,mng-023
+Mangaluru,ಮಾಡ್ತೀನಿ,ಮಾಡುತ್ತೇನೆ,ending,,,needs_native_check,mng-024
+Mangaluru,ಯಾಕೆ,ಯಾಕೆ,word,,,high,mng-025
+Mangaluru,ಏನು,ಏನು,word,,,high,mng-026
+Mangaluru,ನೀವು,ನೀವು,word,,,high,mng-027
+Mangaluru,ಅವರು,ಅವರು,word,,,high,mng-028
+Mangaluru,ಬನ್ನಿ,ಬನ್ನಿ,word,,,high,mng-029
+Mangaluru,ಹೋಗಿ,ಹೋಗಿ,word,,,high,mng-030
+Mangaluru,ಊಟ,ಊಟ,word,,,high,mng-031
+Mangaluru,ನೀರು,ನೀರು,word,,,high,mng-032
+Mangaluru,ಕೊಡಿ,ಕೊಡಿ,word,,,high,mng-033
+Mangaluru,ತಗೊಳ್ಳಿ,ತೆಗೆದುಕೊಳ್ಳಿ,word,,,needs_native_check,mng-034
+Uttara Kannada,ಹೆಂಗಿದ್ದೀರಿ,ಹೇಗಿದ್ದೀರಿ,phrase,"ಹೆಂಗಿದ್ದೀರಿ, ಊಟಕ್ಕೆ ಬರ್ತೀರಾ?",Official example form,high,uk-001
+Uttara Kannada,ಹೆಂಗ್,ಹೇಗೆ,word,,,needs_native_check,uk-002
+Uttara Kannada,ಬರ್ತೀರಾ,ಬರುತ್ತೀರಾ,ending,ಊಟಕ್ಕೆ ಬರ್ತೀರಾ?,Official example form,high,uk-003
+Uttara Kannada,ಬರ್ತೀನಿ,ಬರುತ್ತೇನೆ,ending,,,needs_native_check,uk-004
+Uttara Kannada,ಹೋಗ್ತೀನಿ,ಹೋಗುತ್ತೇನೆ,ending,,,needs_native_check,uk-005
+Uttara Kannada,ಮಾಡ್ತೀನಿ,ಮಾಡುತ್ತೇನೆ,ending,,,needs_native_check,uk-006
+Uttara Kannada,ಮಾಡ್ತಾ ಇದ್ದೀನಿ,ಮಾಡುತ್ತಿದ್ದೇನೆ,phrase,,,needs_native_check,uk-007
+Uttara Kannada,ಮಾಡ್ತಾ ಇದ್ದೀರಿ,ಮಾಡುತ್ತಿದ್ದೀರಿ,phrase,,,needs_native_check,uk-008
+Uttara Kannada,ಯಾಕ,ಯಾಕೆ,word,,,needs_native_check,uk-009
+Uttara Kannada,ಎಂತ,ಏನು,word,,,needs_native_check,uk-010
+Uttara Kannada,ಬರ್ತಿ,ಬರುತ್ತೀರಿ,ending,,,needs_native_check,uk-011
+Uttara Kannada,ಮಾಡ್ತಿ,ಮಾಡುತ್ತೀರಿ,ending,,,needs_native_check,uk-012
+Uttara Kannada,ಹೋಗ್ತಿ,ಹೋಗುತ್ತೀರಿ,ending,,,needs_native_check,uk-013
+Uttara Kannada,ಮನೆ,ಮನೆ,word,,,high,uk-014
+Uttara Kannada,ಊಟ,ಊಟ,word,,,high,uk-015
+Uttara Kannada,ಶಾಲೆ,ಶಾಲೆ,word,,,high,uk-016
+Uttara Kannada,ಮಾರುಕಟ್ಟೆ,ಮಾರುಕಟ್ಟೆ,word,,,high,uk-017
+Uttara Kannada,ಹಬ್ಬ,ಹಬ್ಬ,word,,,high,uk-018
+Uttara Kannada,ಇವತ್ತು,ಇಂದು,word,,,needs_native_check,uk-019
+Uttara Kannada,ನಾಳೆ,ನಾಳೆ,word,,,high,uk-020
+Uttara Kannada,ಎಲ್ಲಿ,ಎಲ್ಲಿ,word,,,high,uk-021
+Uttara Kannada,ಯಾವಾಗ,ಯಾವಾಗ,word,,,high,uk-022
+Uttara Kannada,ಬನ್ನಿ,ಬನ್ನಿ,word,,,high,uk-023
+Uttara Kannada,ಹೋಗಿ,ಹೋಗಿ,word,,,high,uk-024
+Uttara Kannada,ನೀರು,ನೀರು,word,,,high,uk-025
+Uttara Kannada,ಕೊಡಿ,ಕೊಡಿ,word,,,high,uk-026
+Uttara Kannada,ತಿನ್ನಿ,ತಿನ್ನಿರಿ,word,,,needs_native_check,uk-027
+Uttara Kannada,ಮಾಡ್ತೀರಾ,ಮಾಡುತ್ತೀರಾ,ending,,,needs_native_check,uk-028
+Uttara Kannada,ಹೋಗ್ತೀರಾ,ಹೋಗುತ್ತೀರಾ,ending,,,needs_native_check,uk-029
+Uttara Kannada,ಊಟಕ್ಕೆ ಬರ್ತೀರಾ,ಊಟಕ್ಕೆ ಬರುತ್ತೀರಾ,phrase,,,high,uk-030
+Uttara Kannada,ಅಲ್ಲಿ,ಅಲ್ಲಿ,word,,,high,uk-031
+Uttara Kannada,ಇಲ್ಲಿ,ಇಲ್ಲಿ,word,,,high,uk-032
+Uttara Kannada,ಎಷ್ಟು,ಎಷ್ಟು,word,,,high,uk-033
+Uttara Kannada,ಮಾಡಿದೆ,ಮಾಡಿದೆ,word,,,high,uk-034
+Mangaluru,ಮನೆಗೆ ಎತ್ತಬೇಕು,ಮನೆಗೆ ತಲುಪಬೇಕು,phrase,ಸಂಜೆಯೊಳಗೆ ಮನೆಗೆ ಎತ್ತಬೇಕು.,Context-limited: location + reach sense. TV9 Kannada describes Mangaluru ಎತ್ತಬೇಕು → ತಲುಪಬೇಕು. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-mng-001
+Mangaluru,ಇತ್ತಾ,ಇದೆಯಾ,word,ನೀರು ಇತ್ತಾ?,TV9 Kannada reports Mangaluru ಇತ್ತಾ → ಇದೆಯಾ. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-mng-002
+Havyaka,ಬತ್ತಿ,ಬರುತ್ತೇನೆ,word,ನಾನು ಬತ್ತಿ.,TV9 Kannada gives ಬರುತ್ತೇನೆ → ಬತ್ತಿ. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-hav-001
+Havyaka,ಹೋಗ್ತಿ,ಹೋಗುತ್ತೇನೆ,word,ನಾನು ಹೋಗ್ತಿ.,TV9 Kannada gives ಹೋಗುತ್ತೇನೆ → ಹೋಗ್ತಿ. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-hav-002
+Havyaka,ಬತ್ತಾ ಇದ್ದ,ಬರುತ್ತಿದ್ದಾನೆ,phrase,ಅವನು ಬತ್ತಾ ಇದ್ದ.,TV9 Kannada gives ಬರುತ್ತಿದ್ದಾನೆ → ಬತ್ತಾ ಇದ್ದ. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-hav-003
+Havyaka,ಬರಡ,ಬರಬೇಡ,word,ಇಲ್ಲಿ ಬರಡ.,TV9 Kannada gives ಬರಬೇಡ → ಬರಡ. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-hav-004
+Havyaka,ಬರ್ಗು,ಬರಬಹುದು,word,ಅವನು ಬರಬರ್ಗು.,TV9 Kannada gives ಬರಬಹುದು → ಬರ್ಗು. https://tv9kannada.com/specials/kannada-rajyotsava-2021kannada-language-also-have-regionalism-psg-290769.html,needs_native_check,tv9-hav-005
+Hubballi-Dharwad,ನನಗ,ನನಗೆ,word,ನನಗ ಬಂದಿರಿ?,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-001
+Hubballi-Dharwad,ಭಾಳ,ತುಂಬಾ,word,ಭಾಳ ಹಸಿವು,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-002
+Hubballi-Dharwad,ತಲಿ,ತಲೆ,word,ತಲಿ ನೋಯುತ್ತಿದೆ,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-003
+Hubballi-Dharwad,ನೋಯಾಕತ್ತೈತಿ,ನೋಯುತ್ತಿದೆ,word,ತಲಿ ನೋಯಾಕತ್ತೈತಿ,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-004
+Hubballi-Dharwad,ಜಲ್ದಿ,ಬೇಗ,word,ಜಲ್ದಿ ಬನ್ನಿ,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-005
+Hubballi-Dharwad,ಗುಳಿಗೆ,ಮಾತ್ರೆ,word,ಗುಳಿಗೆ ತಗೊಳ್ಳಿ,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-006
+Hubballi-Dharwad,ಕೊಡ್ರಿ,ಕೊಡಿ,word,ನೀರು ಕೊಡ್ರಿ,Provisional mapping seeded from the user-supplied AI-generated candidate batch; not independently verified. Review with a Hubballi-Dharwad speaker.,needs_native_check,user-candidate-hd-007

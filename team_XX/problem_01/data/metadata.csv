@@ -1,0 +1,16 @@
+﻿field,value
+dataset_status,Bootstrap only; no real speaker data collected in this repository
+license,"CC-BY 4.0 planned for collected dataset, subject to contributor consent"
+team_credit,Team XX
+team_number,XX (placeholder - replace with assigned team number)
+project_folder,team_XX/problem_01 (replace XX before submission)
+challenge_dialects,Uttara Kannada; Mangaluru; Hubballi-Dharwad
+official_example_rows,3
+synthetic_bootstrap_rows,60 (synthetic=true; not collected)
+real_collected_rows,0
+real_pair_target,300 (100 per challenge dialect)
+topic_target,20 real reviewed rows per topic per dialect
+glossary_entries,116 (61 needs_native_check)
+model_training,No model training; website uses deterministic offline rules and exact cited examples
+consent_status,No speaker consent records yet; template only
+submission_status,Not ready for final data submission; see docs/submission_readiness.md
