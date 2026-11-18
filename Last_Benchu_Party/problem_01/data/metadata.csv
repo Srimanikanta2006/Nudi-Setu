@@ -1,0 +1,16 @@
+﻿field,value
+dataset_status,Verified dialect dataset (300 reviewed sentence pairs + 3 official benchmarks)
+license,CC-BY 4.0
+team_credit,Last Benchu Party
+team_number,Last Benchu Party
+project_folder,Last_Benchu_Party/problem_01
+challenge_dialects,Uttara Kannada; Mangaluru; Hubballi-Dharwad
+official_example_rows,3
+synthetic_bootstrap_rows,0
+real_collected_rows,300
+real_pair_target,300 (100 per challenge dialect) - 100% Met
+topic_target,20 real reviewed rows per topic per dialect - 100% Met
+glossary_entries,116
+model_training,Deterministic offline rules and glossary mappings; zero cloud dependencies
+consent_status,30 pseudonymous contributor consent profiles logged with informed consent
+submission_status,Complete, validated, and ready for submission

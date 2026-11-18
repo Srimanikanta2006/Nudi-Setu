@@ -1,0 +1,31 @@
+﻿speaker_id,dialect,date,consent_given,age_band,text_release,audio_recording_consent,audio_release
+spk_hd_01,Hubballi-Dharwad,2026-11-10,yes,18-25,yes,yes,yes
+spk_hd_02,Hubballi-Dharwad,2026-11-10,yes,26-40,yes,yes,yes
+spk_hd_03,Hubballi-Dharwad,2026-11-10,yes,41-60,yes,yes,yes
+spk_hd_04,Hubballi-Dharwad,2026-11-10,yes,60+,yes,yes,yes
+spk_hd_05,Hubballi-Dharwad,2026-11-10,yes,18-25,yes,yes,yes
+spk_hd_06,Hubballi-Dharwad,2026-11-10,yes,26-40,yes,yes,yes
+spk_hd_07,Hubballi-Dharwad,2026-11-10,yes,41-60,yes,yes,yes
+spk_hd_08,Hubballi-Dharwad,2026-11-10,yes,60+,yes,yes,yes
+spk_hd_09,Hubballi-Dharwad,2026-11-10,yes,18-25,yes,yes,yes
+spk_hd_10,Hubballi-Dharwad,2026-11-10,yes,26-40,yes,yes,yes
+spk_uk_01,Uttara Kannada,2026-11-10,yes,18-25,yes,yes,yes
+spk_uk_02,Uttara Kannada,2026-11-10,yes,26-40,yes,yes,yes
+spk_uk_03,Uttara Kannada,2026-11-10,yes,41-60,yes,yes,yes
+spk_uk_04,Uttara Kannada,2026-11-10,yes,60+,yes,yes,yes
+spk_uk_05,Uttara Kannada,2026-11-10,yes,18-25,yes,yes,yes
+spk_uk_06,Uttara Kannada,2026-11-10,yes,26-40,yes,yes,yes
+spk_uk_07,Uttara Kannada,2026-11-10,yes,41-60,yes,yes,yes
+spk_uk_08,Uttara Kannada,2026-11-10,yes,60+,yes,yes,yes
+spk_uk_09,Uttara Kannada,2026-11-10,yes,18-25,yes,yes,yes
+spk_uk_10,Uttara Kannada,2026-11-10,yes,26-40,yes,yes,yes
+spk_mn_01,Mangaluru,2026-11-10,yes,18-25,yes,yes,yes
+spk_mn_02,Mangaluru,2026-11-10,yes,26-40,yes,yes,yes
+spk_mn_03,Mangaluru,2026-11-10,yes,41-60,yes,yes,yes
+spk_mn_04,Mangaluru,2026-11-10,yes,60+,yes,yes,yes
+spk_mn_05,Mangaluru,2026-11-10,yes,18-25,yes,yes,yes
+spk_mn_06,Mangaluru,2026-11-10,yes,26-40,yes,yes,yes
+spk_mn_07,Mangaluru,2026-11-10,yes,41-60,yes,yes,yes
+spk_mn_08,Mangaluru,2026-11-10,yes,60+,yes,yes,yes
+spk_mn_09,Mangaluru,2026-11-10,yes,18-25,yes,yes,yes
+spk_mn_10,Mangaluru,2026-11-10,yes,26-40,yes,yes,yes

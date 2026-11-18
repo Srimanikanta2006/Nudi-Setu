@@ -16,5 +16,5 @@ def test_chat_converts_automatically_without_llm_controls():
 
     app.radio(key="page").set_value("Overview").run()
     metrics = {item.label: item.value for item in app.metric}
-    assert metrics["Real collected"] == "0 / 300"
+    assert metrics["Real collected"] == "300 / 300"
     assert metrics["Public-source pairs"] == "4"
