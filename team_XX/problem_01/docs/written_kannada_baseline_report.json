@@ -1,0 +1,54 @@
+{
+  "purpose": "General written-Kannada preservation check; not a dialect accuracy evaluation.",
+  "source": {
+    "title": "Kannada Text Corpus",
+    "url": "https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg",
+    "dataset_id": "cmrkqy18t006imm074waw5jbg",
+    "license": "CC-BY-NC-SA-4.0",
+    "attribution": "Compiled by MirasAI; corpus listing identifies Chandrashekara K and other source authors."
+  },
+  "method": {
+    "corpus_txt_files": 237,
+    "candidate_segments_found": 77276,
+    "sampling": "Reproducible reservoir sample across files; short segments excluded.",
+    "sample_size_requested": 150,
+    "seed": 241,
+    "source_text_written_to_report": false
+  },
+  "by_dialect_setting": {
+    "Uttara Kannada": {
+      "segments_sampled": 150,
+      "unchanged_exactly": 139,
+      "changed_exactly": 11,
+      "normalization_only_segments": 8,
+      "segments_with_glossary_matches": 13,
+      "segments_with_grammar_rules": 1,
+      "grammar_rule_counts": {
+        "colloquial_yaka": 1
+      }
+    },
+    "Mangaluru": {
+      "segments_sampled": 150,
+      "unchanged_exactly": 140,
+      "changed_exactly": 10,
+      "normalization_only_segments": 8,
+      "segments_with_glossary_matches": 9,
+      "segments_with_grammar_rules": 1,
+      "grammar_rule_counts": {
+        "colloquial_yaka": 1
+      }
+    },
+    "Hubballi-Dharwad": {
+      "segments_sampled": 150,
+      "unchanged_exactly": 138,
+      "changed_exactly": 12,
+      "normalization_only_segments": 8,
+      "segments_with_glossary_matches": 8,
+      "segments_with_grammar_rules": 1,
+      "grammar_rule_counts": {
+        "colloquial_yaka": 1
+      }
+    }
+  },
+  "interpretation": "Changes reveal possible edits to general written Kannada and should be reviewed. The corpus has no verified target-dialect labels and cannot measure dialect conversion quality."
+}
