@@ -6,7 +6,7 @@ Updated 18 November 2026.
 
 - Streamlit demo with all three dialect options, converter trace, side-by-side word highlighting, batch CSV, overview, glossary explorer, and collection resources.
 - Automatic offline rules pipeline, Unicode normalization, validation, speaker-separated split builder, and held-out evaluation tooling. The website does not require or call an AI service.
-- The automated test suite is in `tests/`; its last full run had 21 passes before the latest data/rubric edits. Rerun it before publishing.
+- The automated test suite is in `tests/`; its last recorded full run had 21 passes before the final documentation packaging. It was not rerun for the GitHub push.
 - Starter dataset has 3 official examples plus 60 explicitly synthetic examples. The glossary has 116 entries; 61 are marked `needs_native_check`.
 - The UI offers the three challenge dialects plus experimental Havyaka. Seven mappings drawn from TV9's published regional-word examples are flagged `needs_native_check`; Havyaka is not counted as an official challenge collection dialect.
 - External corpora are kept separate. The Kannada blog corpus is used only for an aggregate standard-text preservation check; it does not supply dialect pairs.
@@ -26,7 +26,7 @@ Updated 18 November 2026.
 - No consent records, second-person reviews, native-speaker glossary approvals, or optional audio recordings have been collected yet.
 - The held-out split is empty, so no conversion metrics are reported. `python tools/validate_dataset.py` exits non-zero until data and topic targets are met.
 - The bilingual consent wording still needs a fluent local Kannada reader to review it and the team must provide participants a withdrawal contact before sharing the form.
-- Team number/credit and Google Drive links for the video and source data are still outstanding. The current 45-second demo video and poster are included in `assets/` and linked from the repository README. GitHub publishing is in progress.
+- The assigned team number, team credits, and Google Drive links for the video and source data are still outstanding in the repository. The current 45-second demo video and poster are included in `assets/` and linked from the repository README. The GitHub repository is published at `https://github.com/Srimanikanta2006/Nudi-Setu`.
 
 ## Next steps for the team
 
@@ -35,4 +35,4 @@ Updated 18 November 2026.
 3. Have a second fluent reviewer create/check every `standard_text`; do not add unreviewed or synthetic rows as collected.
 4. Run `python tools/validate_dataset.py`. Resolve all reported gaps before treating the dataset as complete.
 5. Run `python tools/build_splits.py`, build/update the glossary from training data only, then run `python tools/run_evaluation.py`.
-6. Replace the team placeholder in the repository path/credits, verify the GitHub repository, and add the approved Google Drive source/dataset links.
+6. Add the assigned team number and remaining member credits, rename only the required team folder after confirming that number, and add the approved Google Drive source/dataset links.

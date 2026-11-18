@@ -38,7 +38,7 @@ If no known mapping applies, the app leaves the sentence unchanged. A mapped res
 | `data/public_source_pairs/` | 4 separately attributed examples | Exact-match supplement; native review pending; TV9 reuse terms are not verified |
 | `data/public_sources/openslr79/` | General Kannada transcript indexes without dialect labels | Kept separate; not used as dialect conversion pairs |
 
-There are no trained model weights. `data/source_manifest.csv` lists the origins and terms for included material. `data/metadata.csv` records the current counts and still has a `Team XX` placeholder. Never describe generated examples, public text, or general Kannada transcripts as consented Nudi Setu speaker data.
+There are no trained model weights. `data/source_manifest.csv` lists the origins and terms for included material. `data/metadata.csv` records the team name and project counts; the assigned team number is still pending. Never describe generated examples, public text, or general Kannada transcripts as consented Nudi Setu speaker data.
 
 ## Project map
 
