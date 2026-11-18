@@ -58,6 +58,12 @@ def render_alignment(alignment: list[dict[str, object]], side: str) -> str:
     return " ".join(chunks)
 
 
+def clear_composer():
+    """Safely reset input and result before widget instantiation."""
+    st.session_state.input_text = ""
+    st.session_state.last_result = None
+
+
 st.set_page_config(
     page_title="Nudi Setu · Kannada dialect bridge",
     page_icon="🌉",
@@ -167,10 +173,7 @@ with main:
             with btn_col1:
                 convert_clicked = st.button("⚡ ಪರಿವರ್ತಿಸಿ · Convert", type="primary", use_container_width=True, key="convert_trigger")
             with btn_col2:
-                if st.button("↺ ತೆರವುಗೊಳಿಸಿ · Clear", use_container_width=True, key="clear_trigger"):
-                    st.session_state.input_text = ""
-                    st.session_state.last_result = None
-                    st.rerun()
+                st.button("↺ ತೆರವುಗೊಳಿಸಿ · Clear", use_container_width=True, key="clear_trigger", on_click=clear_composer)
             with btn_spacer:
                 st.markdown('<div style="text-align:right;font-size:12px;color:#8590b0;padding-top:4px">🔒 100% Offline</div>', unsafe_allow_html=True)
 
