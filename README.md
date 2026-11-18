@@ -62,6 +62,14 @@ The `XX` folder name must be replaced with the assigned team number before submi
 
 Run `python tools/validate_dataset.py` from `team_XX/problem_01` to check the required schema, consent, review, and collection targets. With the current empty real-speaker dataset, it reports 0/300 and exits nonzero as expected. Run `python -m pytest -q` to execute the project test suite before publishing.
 
-The submission instructions require a GitHub repository link, a demo-video Google Drive link, and a Google Drive link for the permitted dataset sources and consent records. The current demo MP4 is linked above and included in the project; upload it to the team Drive too if the organizers require that channel. The repo is not data-complete and still needs its team number, real consented pairs, second-person review, and published GitHub remote.
+The submission instructions require a GitHub repository link, a demo-video Google Drive link, and a Google Drive link for the permitted dataset sources and consent records. The current demo MP4 is linked above and included in the project; upload it to the team Drive too if the organizers require that channel. The repo is not data-complete and still needs its team number, real consented pairs, second-person review, and Drive links.
+
+### Deploy on Streamlit Community Cloud
+
+1. Sign in at [share.streamlit.io](https://share.streamlit.io) using the GitHub account that can access this repository.
+2. Choose **Create app**, select `Srimanikanta2006/Nudi-Setu`, branch `main`, and app file path `team_XX/problem_01/app.py`.
+3. Deploy. This app does not need Streamlit secrets or an API key.
+
+The project folder is nested to match the hackathon's required `team_XX/problem_01/` layout. Replace `XX` with the assigned team number when known; until then use the path exactly as committed.
 
 See the [detailed checklist](team_XX/problem_01/docs/submission_readiness.md), [limitations](team_XX/problem_01/docs/limitations.md), and [source manifest](team_XX/problem_01/data/source_manifest.csv).

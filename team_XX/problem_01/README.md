@@ -68,4 +68,6 @@ Code license: MIT. Dataset license planned: CC-BY 4.0, conditional on consent. T
 
 ## Deployment and submission
 
-The local demo runs with `streamlit run app.py` and needs no secret or API key. The attached challenge slides require submission through a GitHub repository link, plus Google Drive links for the product video and dataset/source material. This workspace has no GitHub remote or uploaded Drive files yet; see `docs/submission_readiness.md` before submitting.
+The local demo runs with `streamlit run app.py` and needs no secret or API key. To deploy on [Streamlit Community Cloud](https://share.streamlit.io), choose repository `Srimanikanta2006/Nudi-Setu`, branch `main`, and app file path `team_XX/problem_01/app.py`. No secrets are required. Replace `XX` with the assigned team number when available.
+
+The attached challenge slides also require Google Drive links for the product video and dataset/source material. The demo video is included in `assets/nudisetu_demo.mp4`; upload it and the permitted source material to the team Drive and provide read-only links where requested. See `docs/submission_readiness.md` before submitting.
