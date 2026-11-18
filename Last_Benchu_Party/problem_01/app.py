@@ -98,7 +98,7 @@ div[data-testid="stTextArea"] textarea{font-family:'Noto Sans Kannada','Inter Ti
 div[data-testid="stTextArea"] textarea:focus,div[data-testid="stTextArea"] textarea[aria-invalid="true"]{border-color:rgba(100,130,255,.62)!important;box-shadow:0 0 0 1px rgba(100,130,255,.14)!important}
 div[data-testid="stTextArea"] textarea::placeholder,div[data-testid="stTextInput"] input::placeholder{color:#6d7382!important}
 .stButton>button,.stDownloadButton>button{background:#1a1a1d;color:#e9eaf0;border:1px solid rgba(255,255,255,.1);border-radius:10px;min-height:38px;transition:all .2s ease}.stButton>button:hover,.stDownloadButton>button:hover{border-color:rgba(94,126,255,.55);color:white;background:#20222b;transform:translateY(-1px)}
-.stButton>button[kind="primary"]{background:linear-gradient(110deg,#2f6bff,#514cf2 58%,#7050df);border:0;box-shadow:0 7px 26px rgba(55,91,245,.25);font-weight:600}
+.stButton>button[kind="primary"]{background:linear-gradient(110deg,#2f6bff,#514cf2 58%,#7050df)!important;border:0!important;box-shadow:0 6px 24px rgba(55,91,245,.35)!important;font-weight:600!important;color:white!important;border-radius:11px!important;transition:all .25s ease!important}.stButton>button[kind="primary"]:hover{transform:translateY(-1px)!important;box-shadow:0 9px 30px rgba(55,91,245,.55)!important;filter:brightness(1.08)!important}
 .st-key-composer{border:1px solid transparent!important;border-radius:15px!important;background:linear-gradient(#151515,#151515) padding-box,linear-gradient(105deg,#2f6bff,#403fe5,#8253ed,#2f6bff) border-box!important;padding:12px 15px 10px!important;box-shadow:0 12px 45px rgba(0,0,0,.27)}
 .st-key-composer [data-testid="stTextArea"] textarea{border:0!important;background:transparent!important;box-shadow:none!important;padding-left:2px}
 .composer-label{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#777d90;margin:0 0 5px}
@@ -163,12 +163,25 @@ with main:
             sentence = st.text_area("Dialect text", key="input_text", label_visibility="collapsed", placeholder="ನಿಮ್ಮ ವಾಕ್ಯವನ್ನು ಇಲ್ಲಿ ಬರೆಯಿರಿ… / Type or paste a Kannada sentence…", height=94)
             st.caption("Automatic offline conversion · your text stays in this app; no API key or AI service is used.")
 
+            btn_col1, btn_col2, btn_spacer = st.columns([0.48, 0.26, 0.26], vertical_alignment="center")
+            with btn_col1:
+                convert_clicked = st.button("⚡ ಪರಿವರ್ತಿಸಿ · Convert", type="primary", use_container_width=True, key="convert_trigger")
+            with btn_col2:
+                if st.button("↺ ತೆರವುಗೊಳಿಸಿ · Clear", use_container_width=True, key="clear_trigger"):
+                    st.session_state.input_text = ""
+                    st.session_state.last_result = None
+                    st.rerun()
+            with btn_spacer:
+                st.markdown('<div style="text-align:right;font-size:12px;color:#8590b0;padding-top:4px">🔒 100% Offline</div>', unsafe_allow_html=True)
+
         if sentence.strip() and any("\u0c80" <= char <= "\u0cff" for char in sentence):
             try:
                 st.session_state.last_result = {"dialect": dialect, "text": sentence, "result": convert(sentence, dialect)}
             except Exception:
                 st.session_state.last_result = None
                 st.error("Conversion could not be completed. Please try again with a shorter Kannada sentence.")
+        elif convert_clicked and sentence.strip():
+            st.warning("ದಯವಿಟ್ಟು ಕನ್ನಡ ಅಕ್ಷರಗಳನ್ನು ನಮೂದಿಸಿ / Please enter text using Kannada script.")
         else:
             st.session_state.last_result = None
 
