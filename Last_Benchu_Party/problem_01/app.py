@@ -124,7 +124,7 @@ official_rows = [row for row in rows if row.get("source") == "official_example"]
 left, main = st.columns([0.055, 0.945], gap="small")
 with left:
     with st.container(key="side_rail"):
-        st.markdown('<div class="brandmark">N</div><div style="height:18px"></div><div class="rail-icons"><div class="rail-active" title="Chat">✦</div><div title="Overview">◫</div><div title="Glossary">⌕</div><div title="Collection">↥</div><div class="rail-bottom" title="Settings">⚙</div></div>', unsafe_allow_html=True)
+        st.markdown('<div class="brandmark">N</div><div style="height:18px"></div><div class="rail-icons"><div class="rail-active" title="Chat">✦</div><div class="rail-bottom" title="Settings">⚙</div></div>', unsafe_allow_html=True)
 
 with main:
     st.markdown(
