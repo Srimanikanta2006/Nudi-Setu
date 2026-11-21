@@ -167,14 +167,6 @@ python tools/validate_dataset.py
 streamlit run app.py
 ```
 
-### Deploy to Streamlit Community Cloud
-
-1. Log into [share.streamlit.io](https://share.streamlit.io).
-2. Connect your GitHub account and select repository `Srimanikanta2006/Nudi-Setu`.
-3. Set Branch to `main`.
-4. Set Main file path to `Last_Benchu_Party/problem_01/app.py`.
-5. Click **Deploy!** *(No API keys or cloud secrets required)*.
-
 ---
 
 ## 📂 Repository Directory Layout

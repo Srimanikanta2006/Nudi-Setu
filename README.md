@@ -121,22 +121,6 @@ Open `http://localhost:8501` in your browser. As you type Kannada dialect text, 
 
 ---
 
-## ☁️ Live Streamlit Deployment
-
-The application is deployed and running live on Streamlit Community Cloud:  
-👉 **[https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)**
-
-### Deploy Your Own Instance
-To deploy a custom instance with zero secrets required:
-1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-2. Click **Create app**.
-3. Select repository: `Srimanikanta2006/Nudi-Setu`.
-4. Branch: `main`.
-5. Main file path: `app.py` or `Last_Benchu_Party/problem_01/app.py`.
-6. Click **Deploy!**
-
----
-
 ## 📊 Dataset & Benchmark Verification
 
 | Metric | Required by Brief | Delivered by Last Benchu Party | Status |
