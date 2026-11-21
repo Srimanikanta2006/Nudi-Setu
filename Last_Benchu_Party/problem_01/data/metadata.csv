@@ -14,3 +14,5 @@ glossary_entries,116
 model_training,Deterministic offline rules and glossary mappings; zero cloud dependencies
 consent_status,30 pseudonymous contributor consent profiles logged with informed consent
 submission_status,Complete, validated, and ready for submission
+github_repository,https://github.com/Srimanikanta2006/Nudi-Setu
+live_app_url,https://nudi-setu.streamlit.app/

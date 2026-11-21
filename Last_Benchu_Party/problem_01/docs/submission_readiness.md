@@ -20,7 +20,8 @@
 | **One Team Metadata CSV** | `data/metadata.csv` recording team name, license, dialect coverage, and validation stats. | **Verified (100% Met)** |
 | **Informed Consent for Every Contributor** | `consent/consent_log.csv` records 30 pseudonymous speaker profiles across all required age bands with full consent flags. | **Verified (100% Met)** |
 | **README: How it works & what it misses** | Comprehensive project README covering 4-stage pipeline, test suite, and edge case limitations. | **Verified (100% Met)** |
-| **GitHub Repository (Submission Route)** | `https://github.com/Srimanikanta2006/Nudi-Setu` on `main`. | **Ready** |
+| **Live Deployed Application** | `https://nudi-setu.streamlit.app/` | **Live & Verified** |
+| **GitHub Repository (Submission Route)** | `https://github.com/Srimanikanta2006/Nudi-Setu` on `main`. | **Ready & Verified** |
 | **Demo Video** | Recorded high-definition demo walkthrough (`assets/nudisetu_demo.mp4`). | **Included & Ready** |
 | **Required Folder Layout** | `Last_Benchu_Party/problem_01/` matches hackathon structure requirements. | **Verified (100% Met)** |
 

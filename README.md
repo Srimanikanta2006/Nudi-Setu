@@ -8,6 +8,14 @@
 [![Dialects](https://img.shields.io/badge/dialects-3%20core%20%2B%201%20experimental-orange.svg)]()
 [![Offline](https://img.shields.io/badge/offline-100%25%20deterministic-purple.svg)]()
 [![License](https://img.shields.io/badge/license-CC--BY%204.0%20%7C%20MIT-lightgrey.svg)]()
+[![Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nudi-setu.streamlit.app/)
+
+---
+
+## 🌐 Official Supporting Links
+
+- 🚀 **Live Deployed Application:** [https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)
+- 💻 **GitHub Repository:** [https://github.com/Srimanikanta2006/Nudi-Setu](https://github.com/Srimanikanta2006/Nudi-Setu)
 
 ---
 
@@ -16,7 +24,7 @@
 ![Nudi Setu Live Demo Video Preview](Last_Benchu_Party/problem_01/assets/nudisetu_demo.gif)
 
 > 🎥 **Full 1080p Video File:** [`Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4`](Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4)  
-> 🚀 **1-Click Streamlit Cloud Deployment:** [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Srimanikanta2006/Nudi-Setu&branch=main&mainModule=app.py)
+> 🌐 **Live Web Application:** [https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)
 
 ---
 
@@ -114,15 +122,18 @@ Open `http://localhost:8501` in your browser. As you type Kannada dialect text, 
 
 ---
 
-## ☁️ Deploy on Streamlit Community Cloud
+## ☁️ Live Streamlit Deployment
 
-The web application is ready to deploy with zero secrets required:
+The application is deployed and running live on Streamlit Community Cloud:  
+👉 **[https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)**
 
+### Deploy Your Own Instance
+To deploy a custom instance with zero secrets required:
 1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
 2. Click **Create app**.
 3. Select repository: `Srimanikanta2006/Nudi-Setu`.
 4. Branch: `main`.
-5. Main file path: `Last_Benchu_Party/problem_01/app.py`.
+5. Main file path: `app.py` or `Last_Benchu_Party/problem_01/app.py`.
 6. Click **Deploy!**
 
 ---

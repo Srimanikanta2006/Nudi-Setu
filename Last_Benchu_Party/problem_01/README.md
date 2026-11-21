@@ -8,6 +8,14 @@
 [![Dialects](https://img.shields.io/badge/dialects-3%20core%20%2B%201%20experimental-orange.svg)]()
 [![Offline](https://img.shields.io/badge/offline-100%25%20deterministic-purple.svg)]()
 [![License](https://img.shields.io/badge/license-CC--BY%204.0%20%7C%20MIT-lightgrey.svg)]()
+[![Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nudi-setu.streamlit.app/)
+
+---
+
+## 🌐 Official Submission Links
+
+- 🚀 **Live Deployed Application:** [https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)
+- 💻 **GitHub Repository:** [https://github.com/Srimanikanta2006/Nudi-Setu](https://github.com/Srimanikanta2006/Nudi-Setu)
 
 ---
 
@@ -31,7 +39,7 @@ The system features an interactive, real-time web application built with Streaml
 ![Nudi Setu Live Demo Video Preview](assets/nudisetu_demo.gif)
 
 > 🎥 **Download / Watch Full 1080p Video:** [`assets/nudisetu_demo.mp4`](assets/nudisetu_demo.mp4)  
-> 🚀 **1-Click Streamlit Cloud Deployment:** [![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Srimanikanta2006/Nudi-Setu&branch=main&mainModule=Last_Benchu_Party/problem_01/app.py)
+> 🌐 **Live Web Application:** [https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)
 
 ```powershell
 # Run the interactive web app locally
