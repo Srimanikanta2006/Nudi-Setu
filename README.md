@@ -19,26 +19,25 @@
 
 ---
 
-## 🎬 Live Product Demo
-
-![Nudi Setu Live Demo Video Preview](Last_Benchu_Party/problem_01/assets/nudisetu_demo.gif)
-
-> 🎥 **Full 1080p Video File:** [`Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4`](Last_Benchu_Party/problem_01/assets/nudisetu_demo.mp4)  
-> 🌐 **Live Web Application:** [https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)
-
----
-
-## 🌟 Overview & Motivation
+## 🌟 Overview & Key Highlights
 
 Kannada is spoken with rich regional dialectal variations across the state of Karnataka—ranging from the north-western cadences of **Hubballi-Dharwad**, the coastal idioms of **Uttara Kannada**, the unique phonology of **Mangaluru**, to the ancient heritage of **Havyaka**. 
 
 However, official educational materials, government applications, civil courts, medical documentation, and standard media require **Standard Textbook Kannada (ಶಿಷ್ಟ ಕನ್ನಡ)**.
 
-**Nudi Setu (ನುಡಿ ಸೇತು)** bridges this gap with an ultra-fast, deterministic, privacy-first conversion engine:
-- **100% Local & Offline:** Operates entirely on-device without cloud LLMs, API subscriptions, or external network latency.
-- **Privacy-Preserving:** Zero risk of user text or sensitive communication leaving the device.
-- **High Accuracy:** **83.87% Word Accuracy** overall (>90% for coastal varieties) on held-out test data.
-- **Full Transparency:** Provides side-by-side token alignment showing exactly how words and verbal suffixes were converted.
+**Nudi Setu (ನುಡಿ ಸೇತು — "Linguistic Bridge")** bridges this gap with an ultra-fast, deterministic, privacy-first conversion engine:
+- 🚀 **100% Local & Offline:** Operates entirely on-device without cloud LLMs, API subscriptions, or external network latency (<5ms conversion).
+- 🔒 **Privacy-Preserving:** Zero risk of user text or sensitive communication leaving the device.
+- 🎯 **High Accuracy:** **83.87% Word Accuracy** overall (>90% for coastal varieties) on held-out test data.
+- 🔍 **Full Transparency:** Provides side-by-side token alignment showing exactly how words and verbal suffixes were converted.
+- 📚 **Dialect Coverage:** 3 core regional varieties (**Hubballi-Dharwad**, **Uttara Kannada**, **Mangaluru**) + experimental **Havyaka**.
+- 👥 **Ethically Sourced:** 300 peer-reviewed sentence pairs across 5 domains (`home`, `market`, `school`, `travel`, `festivals`) with bilingual informed consent.
+
+---
+
+## 🎬 Live Product Demo
+
+![Nudi Setu Live Demo Video Preview](Last_Benchu_Party/problem_01/assets/nudisetu_demo.gif)
 
 ---
 

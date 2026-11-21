@@ -38,9 +38,6 @@ The system features an interactive, real-time web application built with Streaml
 
 ![Nudi Setu Live Demo Video Preview](assets/nudisetu_demo.gif)
 
-> 🎥 **Download / Watch Full 1080p Video:** [`assets/nudisetu_demo.mp4`](assets/nudisetu_demo.mp4)  
-> 🌐 **Live Web Application:** [https://nudi-setu.streamlit.app/](https://nudi-setu.streamlit.app/)
-
 ```powershell
 # Run the interactive web app locally
 streamlit run app.py
